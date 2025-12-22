@@ -19,9 +19,9 @@ body {
   height: 522px;
   padding: 1.5em;
   border-radius: 20px;
-  margin: 25vh auto;
+  margin: 23vh auto;
   border: 1px solid black;
-  box-shadow: 6px 6px 0px 3px #000000;
+  box-shadow: 5px 5px 0px 3px #000000;
 }
 .card img {
   border-radius: 20px;
